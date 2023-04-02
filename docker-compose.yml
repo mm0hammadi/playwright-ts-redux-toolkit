@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  web: 
+    build: .
+
+    image: bogdanho/todo-list
+
+    container_name: todo-list
+
+    restart: always
+
+    stdin_open: true
+
+    tty: true
+
+    volumes:
+      - ".:/app"
+
+    ports:
+      - 3000:3000 
