@@ -7,7 +7,6 @@
 
 ## About
 ✅React Todo application built with React (with hooks), Redux (@redux/toolkit) with adaptive layout using Bootstrap + Formik + Playwright tests + Docker
-### [Link on deployed project](bogdan-ho.github.io/todo-list/)
 
 
 ## Getting Started
