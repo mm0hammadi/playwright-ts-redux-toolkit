@@ -11,7 +11,7 @@
 
 ## Getting Started
 - Clone a repository
-- Go to the working directory of the project `cd todo-list`
+- Go to the working directory of the project `cd playwright-ts-redux-toolkit`
 - Run `make app-setup`
 - Run tests `make app-test`
 - Start the server `make up`
