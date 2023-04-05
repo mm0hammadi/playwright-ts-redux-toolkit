@@ -1,4 +1,4 @@
-# React Todo App
+# React  App
 ![Todo preview](./src/assets/todoPreview.jpg)
 
 ### CI, tests and linter status:
