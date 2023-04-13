@@ -13,6 +13,7 @@ const Footer = () => {
   const { nowShowing } = useSelector(filterInfoSelector);
   const dispatch = useDispatch();
 
+  
   const handleShowAll = () => {
     dispatch(filterInfoActions.showAll());
   };
