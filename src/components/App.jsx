@@ -1,5 +1,4 @@
 import React from 'react';
-
 import '../assets/application.scss';
 import Header from './Header';
 import ToDoList from './ToDoList';
