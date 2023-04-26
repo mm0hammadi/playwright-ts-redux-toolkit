@@ -1,9 +1,11 @@
 # React  App
+
 ![Todo preview](./src/assets/todoPreview.jpg)
 
 ### CI, tests and linter status:
 [![CI](https://github.com/bogdan-ho/todo-list/actions/workflows/CI.yml/badge.svg)](https://github.com/bogdan-ho/todo-list/actions/workflows/CI.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/da65ed83bf72a6cb066e/maintainability)](https://codeclimate.com/github/bogdan-ho/todo-list/maintainability)
+
 
 ## About
 ✅React Todo application built with React (with hooks), Redux (@redux/toolkit) with adaptive layout using Bootstrap + Formik + Playwright tests + Docker
